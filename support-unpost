@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Unpost App Support</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+            line-height: 1.6; 
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 { 
+            color: #2c3e50; 
+        }
+        a { 
+            color: #3498db; 
+            text-decoration: none; 
+        }
+        a:hover { 
+            text-decoration: underline; 
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .contact-method {
+            margin-bottom: 20px;
+        }
+        .contact-method img {
+            vertical-align: middle;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Support</h1>
+        <p>We're here to help you with any questions or issues you may have regarding Unpost. Choose the method that best suits your needs to get in touch with our support team.</p>
+        
+        <h2>Contact Us via Email</h2>
+        <div class="contact-method">
+            <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email Icon" width="24" height="24">
+            <a href="mailto:contact.unpost.app@gmail.com">contact.unpost.app@gmail.com</a>
+        </div>
+        <p>Feel free to reach out to us anytime, and we'll get back to you as soon as possible.</p>
+        
+        <h2>Join Our Discord Community</h2>
+        <div class="contact-method">
+            <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord Icon" width="24" height="24">
+            <a href="https://discord.gg/Xxjnrum67B" target="_blank">Join our Discord Server</a>
+        </div>
+        <p>Connect with other Unpost users, share your experiences, and get real-time support from our community and team members.</p>
+        
+        <h2>Frequently Asked Questions (FAQ)</h2>
+        <p>Check out our <a href="#faq">FAQ section</a> for quick answers to common questions.</p>
+        
+        <h2>Feedback</h2>
+        <p>We value your feedback! Let us know how we can improve Unpost to better serve your needs.</p>
+        
+        <h2>Operating Hours</h2>
+        <p>Our support team is available <strong>24/7</strong> to assist you with any issues or inquiries.</p>
+        
+        <h2>Follow Us on Social Media</h2>
+        <p>Stay updated with the latest news and updates by following us on our social media channels:</p>
+        <ul>
+            <li><a href="https://twitter.com/unpostapp" target="_blank">Twitter</a></li>
+            <li><a href="https://discord.gg/Xxjnrum67B" target="_blank">Discord</a></li>
+            <!-- Add other social media links if available -->
+        </ul>
+        
+        <h2>Privacy</h2>
+        <p>Your privacy is important to us. Please review our <a href="privacy-policy.html">Privacy Policy</a> to understand how we handle your information.</p>
+        
+        <h2>Additional Resources</h2>
+        <p>Explore our <a href="help-center.html">Help Center</a> for tutorials, guides, and more information about using Unpost effectively.</p>
+    </div>
+</body>
+</html>
